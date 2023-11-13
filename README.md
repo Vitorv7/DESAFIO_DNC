@@ -6,13 +6,9 @@
   
  #### **LAYOUT DO PROJETO** 📺
 
-![PROJETO-DNC](https://github.com/Vitorv7/desafio-lp/assets/141175216/2a5122e0-7b39-44a0-a325-8132536e82a8)
+![PROJETO-DNC](/img/PROJETO-DNC.png)
 
-**Warning: ⚠️** <br/>
-
-**_Atenção Projeto Esta em Desenvolvimeto para dispositivos menores_** <br/>
-
-**Mais para Desktop esta funcionando normalmente**
+**Warning: ⚠️ Atenção Projeto Esta em Desenvolvimeto para dispositivos menores** <br/>
 
 <br/>
 
