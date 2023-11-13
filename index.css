@@ -1,0 +1,173 @@
+*{
+  margin: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+  list-style-type: none;
+
+  font-family: 'Inter', sans-serif;
+  overflow-x: hidden;
+}
+/*TRADIÇÃO*/
+#visual-main{
+  background-color: #303030;
+  width: 100%;
+  height: auto;
+}
+
+#header{
+  margin: 60px;
+  margin-top: 200px;
+}
+
+#title-main{
+  color: white;
+  font-family: 'Inter', sans-serif;
+  font-size: 60px;
+  font-weight: 600;
+}
+
+#paragraph-title{
+  color: white;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+
+/*COLUNAS-HORIZONTAL*/
+#colum-main{
+  display: grid;
+  grid-auto-flow: column;
+  columns: auto;
+  margin-top: 80px;
+  margin-bottom: 45px;
+}
+
+#colum{
+  background-color: #F9F9F9;
+  width: auto;
+  height: auto;
+  text-align: center;
+
+  margin-bottom: 1rem;
+}
+
+#colum-main h2{
+  font-size: 30px;
+  font-weight: 600;
+  font-style: normal;
+}
+
+#colum-main p{
+  font-size: 20px;
+  font-weight: 500;
+}
+
+/*EXPERIÊNCIA*/
+#content-home{
+  display: grid;
+  grid-auto-flow: column;
+  columns: auto;
+}
+
+.content{
+  padding-top: 77px;
+  margin-top: 100px;
+
+  text-align: center;
+  justify-content: center;
+}
+
+.content h3{
+  margin-bottom: 20px;
+  font-size: 40px;
+}
+
+#content-home img{
+  width: 510px;
+  height: 600px;
+  padding: 54px;
+}
+
+.content p{
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+
+/*FORMULARIO*/
+#form{
+  text-align: center;
+  background-color: #303030;
+}
+
+#title-fomr{
+  color: white;
+  margin-top: 80px;
+}
+
+#form form{
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+#form input{
+  width: 400px;
+  height: 60px;
+  
+  padding-left: 10px;
+  
+  margin-top: 25px;
+
+  border-radius: 10px;
+  outline: none;
+  border: none;
+
+  font-weight: 600;
+}
+
+#button{
+  margin-bottom: 80px;
+
+  background-color: #C07212;
+  color: white;
+
+  width: 200px;
+  height: 60px;
+  border-radius: 5px;
+  font-weight: 700;
+  border: none;
+
+  cursor: pointer;
+}
+
+#button:hover{
+  transform: translateY(-4px);
+  animation-duration: 1s;
+  transition: .2s;
+
+  box-shadow: 0px 10px 10px #806341;
+}
+
+#button-enviar{
+  margin-top: 40px;
+  width: 200px;
+  height: 60px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: 700;
+  color: white;
+  background-color: #C07212;
+  border: none;
+}
+
+#button-enviar:hover{
+  transform: translateY(-4px);
+  animation-duration: 1s;
+  transition: .5s;
+}
+/*SCROLLREVEAL-JS*/
+#content-home, #form, #colum, #visual-main{
+  visibility: hidden;
+}
+
