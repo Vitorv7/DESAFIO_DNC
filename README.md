@@ -14,8 +14,6 @@
 
 ### 🛠️ **TECNOLOGIAS ULTILIZADAS**
 
-<br/>
-
 - **HTML**
 - **CSS3**
 - **JAVASCRIPT**
