@@ -8,10 +8,6 @@
 
 ![PROJETO-DNC](/img/PROJETO-DNC.png)
 
-**Warning: ⚠️ Atenção Projeto Esta em Desenvolvimeto para dispositivos menores** <br/>
-
-<br/>
-
 ### 🛠️ **TECNOLOGIAS ULTILIZADAS**
 
 - **HTML**
